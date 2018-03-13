@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:User.iPhone/User.iPhone.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Driver.Leader/Driver.Leader.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Driver.iPad/Driver.iPad.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Driver.iPhone/Driver.iPhone.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:User.iPad/User.iPad.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SClientData/SClientData.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SClientModel/SClientModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SClientModelControllers/SClientModelControllers.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SClientUI/SClientUI.xcodeproj">
+   </FileRef>
+</Workspace>

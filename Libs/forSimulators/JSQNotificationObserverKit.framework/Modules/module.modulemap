@@ -1,0 +1,10 @@
+framework module JSQNotificationObserverKit {
+  umbrella header "JSQNotificationObserverKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module JSQNotificationObserverKit.Swift {
+    header "JSQNotificationObserverKit-Swift.h"
+}

@@ -1,0 +1,1813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CustomOrderView.(btnCreateOrder_Clicked(UIButton) -&gt; ()).(closure #2).(closure #2):Main.CreateOrder.CustomOrder.Events.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChooseOrderLocationUI.(btnPickupHere_Clicked(UIButton) -&gt; ()).(closure #1).(closure #2).(closure #2):Main.CreateOrder.ChooseLocation.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TravelOrderManager.(bidding(TravelOrder, message : String?, expireTime : NSDate?, completion : (item : DriverBidding?) -&gt; ()?) -&gt; ()).(closure #1):TravelOrderManager.Actions.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChooseDriverCell.updateEstPrice(ChooseDriverObject) -&gt; ():Order.ChooseDriver.DriverList.Cell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "obj.estPrice">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaxiSocket.requestTaxi(TravelOrder, driverId : String) -&gt; ():TaxiSocket.Actions.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SCONNECTING.UserManager!.CurrentUser">
+            </PersistentString>
+            <PersistentString
+               value = "order.id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapView.addPathPolyLine(CLLocationCoordinate2D, destLocation : CLLocationCoordinate2D) -&gt; ():Main.Map.Google.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static ModelController.(getOneByField(String, value : protocol&lt;&gt;, clientHandler : (item : A?) -&gt; ()?, serverHandler : (item : A?) -&gt; ()?) -&gt; ()).(closure #1):ModelController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "User.cacheMinutes">
+            </PersistentString>
+            <PersistentString
+               value = "item!.retrieveAt">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.invalidateUserProfilePanel(() -&gt; ()?) -&gt; ():Monitor.Panel.UserProfile.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentOrder!.ActDropTime!.isExpired(60*12)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DriverStatus.mapping(Map) -&gt; ():DriverStatus.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChooseOrderLocationUI.invalidateOrderPanel() -&gt; ():Main.CreateOrder.ChooseLocation.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parent.orderInfo.txtSource">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SCDriverManager.isValidDevice((Bool) -&gt; ()?) -&gt; ():DriverManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIDevice.currentDevice().uniqueIdentifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelViewController.(reverseGeocodeCoordinate(CLLocationCoordinate2D) -&gt; ()).(closure #1):Travel.GoogleMap.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "address.lines">
+            </PersistentString>
+            <PersistentString
+               value = "address.locality">
+            </PersistentString>
+            <PersistentString
+               value = "address.thoroughfare">
+            </PersistentString>
+            <PersistentString
+               value = "address.country">
+            </PersistentString>
+            <PersistentString
+               value = "address.administrativeArea">
+            </PersistentString>
+            <PersistentString
+               value = "address.subLocality">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SCDriverManager.setReadyStatus(Bool, completion : (item : DriverStatus?) -&gt; ()?) -&gt; ():DriverManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentDriverStatus">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DriverProfileScreen.invalidate() -&gt; ():Driver.Profile.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.lblCarQualityValue.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OrderUI.(invalidate() -&gt; ()).(closure #1):Travel.Order.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parent.orderInfo.currentDuration">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.invalidateAvatar() -&gt; ():Monitor.Panel.UserProfile.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.showDriverProfilePanel(Bool, completion : () -&gt; ()?) -&gt; ():Monitor.Panel.DriverProfile.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.pnlDriverProfileArea.hidden">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static GoogleMapUtil.(getDistance(CLLocationCoordinate2D, destLocation : CLLocationCoordinate2D, completion : (routes : [JSON]?) -&gt; ()?) -&gt; ()).(closure #1):GoogleMapUtil.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelOrderScreen.viewDidLoad() -&gt; ():TravelOrderScreen.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mapView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ServerStorage.create(A, completion : (id : String?) -&gt; ()?) -&gt; ():ServerStorage.swift">
+      </ContextState>
+      <ContextState
+         contextName = "OrderBiddingScreen.(didChooseDateTime(PopupDatePicker) -&gt; ()).(closure #1):OrderBidding.ExpireTime.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static ModelController.getOneByField(String, value : protocol&lt;&gt;, clientHandler : (item : A?) -&gt; ()?, serverHandler : (item : A?) -&gt; ()?) -&gt; ():ModelController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "T">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MarkerUI.loadCarMarkers([DriverStatus]) -&gt; ():Travel.Marker.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "driverStatus.Location">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CustomOrderUI.btn4Seat_Clicked(UIButton) -&gt; ():Main.CreateOrder.CustomOrder.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "  self.btnAllSeat">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.(invalidateDriverProfilePanel(() -&gt; ()?) -&gt; ()).(closure #2):Main.Travel.Monitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sqrt(2) * self.btnAvatar.getHeightConstant()/4">
+            </PersistentString>
+            <PersistentString
+               value = "self.btnAvatar.frame.size">
+            </PersistentString>
+            <PersistentString
+               value = "self.btnAvatar.getHeightConstant()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.invalidateMoreInfo() -&gt; ():Main.Travel.Monitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " self.lblMoreInfo.showControl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SCUserManager.(registerNewDevice(String, completion : () -&gt; ()?) -&gt; ()).(closure #2):UserManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TaxiOrderScreen.init(order : TravelOrder) -&gt; TaxiOrderScreen:Order.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TravelChattingTable.tableView(UITableView, estimatedHeightForRowAtIndexPath : NSIndexPath) -&gt; CGFloat:Message.ChatList.CustomUI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.manager.storage">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.session">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "self.manager.storage.itemAtIndexPath(indexPath)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static TravelOrderController.(GetOrderComments(String, serverHandler : (orders : [TravelOrder]) -&gt; ()?) -&gt; ()).(closure #1).(closure #1):TravelOrderController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TaxiSocket.loggin() -&gt; ():TaxiSocket.Actions.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "socket">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelViewController.(initCars(CLLocationCoordinate2D) -&gt; ()).(closure #1).(closure #2):Travel.Marker.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "driverStatus.Location![0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static DataManager.(queryServer(String, serverHandler : (items : [A]?) -&gt; ()?) -&gt; ()).(closure #1).(closure #1).(closure #1):DataManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TaxiMainScreen.(viewDidAppear(Bool) -&gt; ()).(closure #1):Main.Home.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TravelChattingTable.(loadItems(() -&gt; ()?) -&gt; ()).(closure #1).(closure #1).(closure #2):Message.ChatList.Data.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentPages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CommentCell.updateWithModel(TravelOrder) -&gt; ():Driver.Profile.Comment.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lblCreateDate.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ImageHelper.resize(UIImage, newWidth : CGFloat?) -&gt; UIImage:ImageHelper.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "image.size.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ClientStorage.getById(String, completion : (item : A?) -&gt; ()?) -&gt; ():ClientStorage.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChooseDriverCell.(updateEstPrice(ChooseDriverObject) -&gt; ()).(closure #1):ChooseDriver.DriverList.Cell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SCUserManager.(updateUserName(String, userId : String, completion : () -&gt; ()?) -&gt; ()).(closure #2):UserManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChooseLocationView.invalidate() -&gt; ():Main.CreateOrder.ChooseLocation.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "IntroduceViewController.initControls() -&gt; ():IntroduceViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.pageViewController.view.bounds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ControlPanelView.(btnReady_Clicked(UIButton) -&gt; ()).(closure #2).(closure #2):Main.ControlPanel.Events.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurretDriverStatus.IsReady">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ImageHelper.resize(UIImage, newWidth : CGFloat) -&gt; UIImage:ImageHelper.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "image.size.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.invalidate(() -&gt; ()?) -&gt; ():Main.Travel.Monitor.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TaxiMainScreen.(viewDidAppear(Bool) -&gt; ()).(closure #1):TaxiMainScreen.Events.swift">
+      </ContextState>
+      <ContextState
+         contextName = "STaxiManager.(startTrip(TravelOrder, completion : (item : TravelOrder?) -&gt; ()?) -&gt; ()).(closure #1):TaxiManager.Actions.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static ServerStorage.(get(String, completion : (result : String?) -&gt; ()?) -&gt; ()).(closure #1):ServerStorage.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " String(T) ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CustomOrderUI.init(parent : TaxiMainScreen) -&gt; CustomOrderUI:Main.CreateOrder.CustomOrder.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "  self.btnAllSeat">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelOrderScreen.invalidateUI(Bool, completion : () -&gt; ()?) -&gt; ():TravelOrderScreen.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.orderPhase  == OrderPhase.ChooseDriver">
+            </PersistentString>
+            <PersistentString
+               value = "self.orderPhase">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static SCONNECTING.(Init((Bool) -&gt; ()?) -&gt; ()).(closure #1):SCONNECTING.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SCONNECTING.TaxiManager!.currentOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "STaxiManager.(finishTrip(TravelOrder, completion : (item : TravelOrder?) -&gt; ()?) -&gt; ()).(closure #1):TaxiManager.Actions.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SCLocationManager.currentLocation!.Location!.coordinate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SCLocationManager.updateUserPositionHistory() -&gt; ():LocationManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UIView.switchToSecondConstraint.setter:UIConstraintHelper.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "constraintObject.topConstraint!.constant ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static CachingManager.(performGet(String, expireMinutes : Double?, completion : (items : [A]) -&gt; ()?) -&gt; ()).(closure #1):CachingManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "T.self">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ActivationScreen.(btnCommitCode_Clicked(UIButton) -&gt; ()).(closure #2).(closure #2).(closure #1):ActivationScreen.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " SCONNECTING.UserManager">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ServerStorage.(getOne(String?, completion : (success : Bool, item : A?) -&gt; ()?) -&gt; ()).(closure #1):ServerStorage.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.invalidateOrderPanel(() -&gt; ()?) -&gt; ():Main.Travel.Monitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentOrder!.Status">
+            </PersistentString>
+            <PersistentString
+               value = "self.CurrentOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelChattingTable.(createNewItem(String, completion : () -&gt; ()?) -&gt; ()).(closure #1):Message.ChatList.Data.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DriverProfileScreen.(btnSendRequest_Clicked(UIButton) -&gt; ()).(closure #2).(closure #2):Driver.Profile.Main.Events.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.travelOrder!">
+            </PersistentString>
+            <PersistentString
+               value = "self.driver!.id!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MarkerManager.loadCars(CLLocationCoordinate2D) -&gt; ():Main.Map.Marker.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.carList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaxiSocket.(addHandlers() -&gt; ()).(closure #3):TaxiSocket.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(data[0] as! [String: AnyObject])[&quot;DriverID&quot;] as! String">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelOrderManager.(bidding(TravelOrder, message : String?, expireTime : NSDate?, completion : (item : DriverBidding?) -&gt; ()?) -&gt; ()).(closure #1).(closure #1):TravelOrderManager.Actions.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static DataManager.(createAndRefresh(A, completion : (item : A?) -&gt; ()?) -&gt; ()).(closure #1).(closure #1).(closure #1):DataManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TaxiMainScreen.updateAndMoveToCurrentLocation() -&gt; ():Main.Map.Google.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SCONNECTING.LocationManager?.currentLocation?.Coordinate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.(invalidateAvatar(() -&gt; ()?) -&gt; ()).(closure #1):Monitor.Panel.DriverProfile.swift">
+      </ContextState>
+      <ContextState
+         contextName = "STaxiManager.(sendRequestToDriver(TravelOrder, driverId : String, completion : (item : TravelOrder?) -&gt; ()?) -&gt; ()).(closure #1).(closure #1):TaxiManager.Actions.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.order">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.invalidateDriverProfilePanel(() -&gt; ()?) -&gt; ():Main.Travel.Monitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+            <PersistentString
+               value = "self.driverStatus">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ServerStorage.getOne(String?, completion : (success : Bool, item : A?) -&gt; ()?) -&gt; ():ServerStorage.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Token">
+            </PersistentString>
+            <PersistentString
+               value = " NSUserDefaults.standardUserDefaults().stringForKey(&quot;Token&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MarkerManager.currentCar.getter:Main.Map.Marker.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.carList.driverList[(SCONNECTING.TaxiManager?.currentOrder.Driver!)!] ">
+            </PersistentString>
+            <PersistentString
+               value = "self.carList.driverList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static DataManager.(queryServer(String, serverHandler : (items : [A]?) -&gt; ()?) -&gt; ()).(closure #1).(closure #1):DataManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChooseDriverCell.updateWithModel(ChooseDriverObject) -&gt; ():Order.ChooseDriver.DriverList.Cell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.lblEstPrice.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "STaxiManager.(reset(Bool, completion : () -&gt; ()?) -&gt; ()).(closure #1):TaxiManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.(invalidateActualPrice() -&gt; ()).(closure #1):Main.Travel.Monitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " self.lblCurrentPrice.text">
+            </PersistentString>
+            <PersistentString
+               value = "distance!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.updatePriceText(Double?) -&gt; ():Main.Travel.Monitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentOrder!.ActDistance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChooseDriverScreen.init(order : TravelOrder) -&gt; ChooseDriverScreen:ChooseDriverScreen.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SCUserManager.(registerNewDevice(String, completion : (success : Bool) -&gt; ()?) -&gt; ()).(closure #1).(closure #2):UserManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChooseDriverTable.loadDrivers() -&gt; ():Order.ChooseDriver.DriverList.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ObjectReflection.propertyNames(AnyObject.Type) -&gt; [String]:ObjectReflection.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "objClass.Name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MarkerManager.init(parent : TaxiMainScreen) -&gt; MarkerManager:Main.Map.Marker.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "carList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LocationTransform.transformFromJSON(AnyObject?) -&gt; LocationObject?:LocationTransform.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SCLocationManager.isMoved(CLLocation) -&gt; Bool:LocationManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.locations">
+            </PersistentString>
+            <PersistentString
+               value = "location.horizontalAccuracy ">
+            </PersistentString>
+            <PersistentString
+               value = "location.verticalAccuracy ">
+            </PersistentString>
+            <PersistentString
+               value = "location.speed">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static UserController.(RequestForActivationCode(String, countryCode : String, completion : (requestId : String?) -&gt; ()) -&gt; ()).(closure #1):UserController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json[&quot;status&quot;] as? String">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelViewController.(addPathPolyLine(CLLocationCoordinate2D, destLocation : CLLocationCoordinate2D) -&gt; ()).(closure #1):Travel.GoogleMap.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "routes![0][&quot;legs&quot;][0][&quot;distance&quot;][&quot;value&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelOrderScreen.isChoosingDriverPhase.getter:TravelOrderScreen.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentOrder.IsNewOrder() ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChooseDriverUI.(btnCancelOrder_Clicked(UIButton) -&gt; ()).(closure #2).(closure #2):Order.ChooseDriver.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentOrder!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelChattingTable.displayData(() -&gt; ()?) -&gt; ():Message.ChatList.Data.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.manager.memoryStorage.sections">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ControlPanelView.showOrderPanel(Bool, completion : () -&gt; ()?) -&gt; ():Main.ControlPanel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.pnlControlArea">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static RESTAPI.(create(A, completion : (id : String?) -&gt; ()?) -&gt; ()).(closure #1):RESTAPI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(params[&quot;Location&quot;]!)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OrderManager.createOrder() -&gt; ():Order.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.showUserProfilePanel(Bool, completion : (changed : Bool) -&gt; ()?) -&gt; ():Monitor.Panel.UserProfile.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "CurrentOrder!.IsMonitoring() ">
+            </PersistentString>
+            <PersistentString
+               value = "self.pnlUserProfileArea.hidden">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ServerStorage.update(A, completion : (success : Bool, item : A?) -&gt; ()?) -&gt; ():ServerStorage.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "newParams.keys&#10;Mapper().toJSON(obj)&#10;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChooseOrderLocationUI.(btnPickupHere_Clicked(UIButton) -&gt; ()).(closure #1):Main.CreateOrder.ChooseLocation.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "address.lines">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChooseDriverUI.initLayout() -&gt; ():Order.ChooseDriver.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parent.navigationController">
+            </PersistentString>
+            <PersistentString
+               value = "self.parent.tabBarController?.tabBar.frame.size.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.invalidateMoreInfo(() -&gt; ()?) -&gt; ():Monitor.Panel.Order.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "timeInterval / 60">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static RealmDB.getOne(String?, filter : String?, completion : (item : A?) -&gt; ()?) -&gt; ():RealmDB.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "item!.Name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "STaxiManager.startTrip(TravelOrder, completion : (item : TravelOrder?) -&gt; ()?) -&gt; ():TaxiManager.Actions.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DriverInfoCell.updateWithModel(DriverStatus) -&gt; ():Order.ChooseDriver.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChattingInputView.keyboardWasShown(NSNotification) -&gt; ():Message.InputView.Events.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "h2 - h1">
+            </PersistentString>
+            <PersistentString
+               value = "self.txtMessage.frame">
+            </PersistentString>
+            <PersistentString
+               value = "(self.txtMessage.superview?.convertPoint(self.txtMessage.frame.origin, toView: nil).y)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static RESTAPI.(getOne(String?, filter : String?, completion : (success : Bool, item : A?) -&gt; ()?) -&gt; ()).(closure #1).(closure #1).(closure #2):RESTAPI.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ParameterEncoding.(encode(URLRequestConvertible, parameters : [String : AnyObject]?) -&gt; (NSMutableURLRequest, NSError?)).(query #1)([String : AnyObject]) -&gt; String:ParameterEncoding.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TravelChattingTable.reloadData() -&gt; ():Message.ChatList.Data.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.manager.memoryStorage.sections[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelViewController.btnMyLocation_Clicked(UIButton) -&gt; ():Travel.GoogleMap.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "locationManager.location">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "STaxiManager.(sendRequestToDriver(TravelOrder, driverId : String, completion : (item : TravelOrder?) -&gt; ()?) -&gt; ()).(closure #1):TaxiManager.Actions.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DriverProfileScreen.(btnCancelRequest_Clicked(UIButton) -&gt; ()).(closure #2).(closure #2).(closure #1):Driver.Profile.Main.Events.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " self.travelOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelChattingTable.tableView(UITableView, heightForRowAtIndexPath : NSIndexPath) -&gt; CGFloat:Message.ChatList.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.manager.storage.itemAtIndexPath(indexPath) as! TravelChattingObject">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static DataManager.getOneByField(String, value : protocol&lt;&gt;, isGetNow : Bool, clientHandler : (item : A?) -&gt; ()?, serverHandler : (item : A?) -&gt; ()?) -&gt; ():DataManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaxiMainScreen.(invalidateUI(() -&gt; ()?) -&gt; ()).(closure #1):TaxiMainScreen.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DriverProfileScreen.initControlEvents() -&gt; ():Driver.DriverProfile.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.btnCallDriver">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DriverProfileScreen.invalidate() -&gt; ():Driver.DriverProfile.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.driverStatus">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static SCUserManager.(requestNewToken(String, completion : (String?) -&gt; ()?) -&gt; ()).(closure #1):UserManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json[&quot;message&quot;].string">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CommentTable.getPreferedTableHeight() -&gt; CGFloat:Driver.Profile.Comment.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tableView.contentSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UIView.showControl.setter:UIConstraintHelper.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.hidden">
+            </PersistentString>
+            <PersistentString
+               value = "constraintObject">
+            </PersistentString>
+            <PersistentString
+               value = "constraintObject.heightConstraint!.constant">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ObjectReflection.getPropertyType(NSObject.Type, propertyName : String) -&gt; String?:ObjectReflection.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TaxiMainScreen.mapView(GMSMapView, idleAtCameraPosition : GMSCameraPosition) -&gt; ():Main.Map.Google.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "position.bearing">
+            </PersistentString>
+            <PersistentString
+               value = "position.viewingAngle">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChooseLocationView.(invalidateTravelPath() -&gt; ()).(closure #1):Main.CreateOrder.ChooseLocation.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SCONNECTING.LocationManager?.currentLocation?.Country">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "STaxiManager.(invalidateUI(OrderCreationPhase?, completion : () -&gt; ()?) -&gt; ()).(closure #1):TaxiManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "DriverProfileScreen.instance!.isActive">
+            </PersistentString>
+            <PersistentString
+               value = "AppDelegate.mainWindow?.mainViewCtrl.taxiViewCtrl!.isChoosingDriverPhase">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChooseDriverObject.(loadEstPrice(() -&gt; ()?) -&gt; ()).(closure #1):Order.ChooseDriver.DriverList.Cell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.order!.OrderDistance ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelOrderManager.getBidding(TravelOrder, completion : (item : DriverBidding?) -&gt; ()?) -&gt; ():TravelOrderManager.Actions.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "String(driverId!) ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ServerStorage.(update(A, completion : (success : Bool, item : A?) -&gt; ()?) -&gt; ()).(closure #1):ServerStorage.swift">
+      </ContextState>
+      <ContextState
+         contextName = "STaxiManager.invalidatePhase(OrderCreationPhase?) -&gt; ():TaxiManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AppDelegate.mainWindow?.mainViewCtrl.taxiViewCtrl.orderCreationPhase">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static GoogleMapUtil.(getAddress(CLLocationCoordinate2D, completion : (address : String?, country : String?) -&gt; ()?) -&gt; ()).(closure #1):GoogleMapUtil.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json[&quot;results&quot;].array">
+            </PersistentString>
+            <PersistentString
+               value = " json[&quot;results&quot;].array![0][&quot;formatted_address&quot;].stringValue">
+            </PersistentString>
+            <PersistentString
+               value = "json[&quot;results&quot;].array[&quot;formatted_address&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ServerStorage.(getOne(String, completion : (success : Bool, item : A?) -&gt; ()?) -&gt; ()).(closure #1):ServerStorage.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CustomOrderView.invalidate() -&gt; ():Main.CreateOrder.CustomOrder.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static SCLocationManager.latitude.getter:LocationManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SCLocationManager.currentLocation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.invalidateStatus() -&gt; ():Main.Travel.Monitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SCLocationManager.currentLocation">
+            </PersistentString>
+            <PersistentString
+               value = "self.CurrentOrder.Status">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChooseDriverCell.updateWithModel(ChooseDriverObject) -&gt; ():ChooseDriver.DriverList.Cell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TaxiSocket.cancelRequest(TravelOrder, driverId : String) -&gt; ():TaxiSocket.Actions.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SCONNECTING.UserManager!.CurrentUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static DriverController.(RequestForActivationCode(String, countryCode : String, completion : (requestId : String?) -&gt; ()) -&gt; ()).(closure #1):DriverActivation.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TravelChattingTable.loadItems(() -&gt; ()?) -&gt; ():Message.ChatList.Data.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentOrder!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelChattingTable.tableView(UITableView, willDisplayCell : UITableViewCell, forRowAtIndexPath : NSIndexPath) -&gt; ():Message.ChatList.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.manager.storage.itemAtIndexPath(indexPath)! as! TravelChattingObject">
+            </PersistentString>
+            <PersistentString
+               value = "isFirstTimeLoaded">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "currentPages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CarMarkerList.loadCar(DriverStatus) -&gt; ():Main.Map.Marker.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.invalidateOrderPanelCollapse(() -&gt; ()?) -&gt; ():Monitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.isCollapsedOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DriverProfileScreen.setCurrentOrder(TravelOrder?, bidding : DriverBidding?) -&gt; ():Driver.Profile.Main.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.travelOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static DriverController.(GetNearestDrivers(Double, longtitude : Double, serverHandler : (drivers : [DriverStatus]) -&gt; ()?) -&gt; ()).(closure #1):DriverController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "OrderUI.init(parent : TravelViewController) -&gt; OrderUI:Travel.Order.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imgMinOrderPanel.userInteractionEnabled ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SCLocationManager.updateDriverPositionHistory() -&gt; ():LocationManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SCONNECTING.DriverManager?.CurrentDriverStatus">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DriverProfileScreen.refreshStatus(String?) -&gt; ():DriverProfileScreen.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.btnBack">
+            </PersistentString>
+            <PersistentString
+               value = "self.btnCancelRequest.showControl">
+            </PersistentString>
+            <PersistentString
+               value = " self.navigationItem.leftBarButtonItem?.customView?.hidden">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChooseLocationView.(invalidateTravelPath() -&gt; ()).(closure #1):ChooseLocation.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSLocale.ISOCountryCodes() ">
+            </PersistentString>
+            <PersistentString
+               value = "self.CurrentOrder!.OrderPickupCountry">
+            </PersistentString>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelChattingTable.(loadItems() -&gt; ()).(closure #1).(closure #1):Message.ChatList.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChooseDriverTable.loadDrivers() -&gt; ():ChooseDriver.UI.DriverList.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentOrder!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaxiMainScreen.(viewDidLoad() -&gt; ()).(closure #1):TaxiMainScreen.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.invalidateAvatar(() -&gt; ()?) -&gt; ():Monitor.Panel.DriverProfile.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.btnAvatar.bounds">
+            </PersistentString>
+            <PersistentString
+               value = "self.CurrentOrder">
+            </PersistentString>
+            <PersistentString
+               value = "NSURL(string: url)!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LocationTransform.transformFromJSON(AnyObject?) -&gt; LocationObject?:LocationObject.swift">
+      </ContextState>
+      <ContextState
+         contextName = "STaxiManager.(finishTrip(TravelOrder, completion : (item : TravelOrder?) -&gt; ()?) -&gt; ()).(closure #1).(closure #1).(closure #1).(closure #1):TaxiManager.Actions.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "order!.ActPrice ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.invalidateProfilePanelControls(() -&gt; ()?) -&gt; ():Monitor.Panel.DriverProfile.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "driverStatus!.CarSeater">
+            </PersistentString>
+            <PersistentString
+               value = "lblSeaterAndQuality">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaxiMainScreen.changeLocation(CLLocation) -&gt; ():Main.Map.Location.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.markerManager.currentCar">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "STaxiManager.(finishTrip(TravelOrder, completion : (item : TravelOrder?) -&gt; ()?) -&gt; ()).(closure #1).(closure #1).(closure #1):TaxiManager.Actions.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "routes![0][&quot;legs&quot;][0][&quot;distance&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelChattingTable.tableView(UITableView, didEndDisplayingCell : UITableViewCell, forRowAtIndexPath : NSIndexPath) -&gt; ():Message.ChatList.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.invalidateOrderPanel(() -&gt; ()?) -&gt; ():Monitor.Panel.Order.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pnlOrderArea">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "STaxiManager.cancelRequestToDriver(TravelOrder, driverId : String, completion : (item : TravelOrder?) -&gt; ()?) -&gt; ():TaxiManager.Actions.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DriverTable.invalidateDriverList() -&gt; ():Order.ChooseDriver.DriverList.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parent.parent.orderManager">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ServerStorage.(get(String, completion : (result : Double?) -&gt; ()?) -&gt; ()).(closure #1):ServerStorage.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.result.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LocationTransform.transformFromJSON(AnyObject?) -&gt; List&lt;DoubleObject&gt;?:LatitudeTransform.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TravelOrderScreen.btnHome_Clicked() -&gt; ():TravelOrderScreen.Events.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AppDelegate.mainWindow?.mainViewCtrl.slideMenuController()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ServerStorage.(create(A, completion : (id : String?) -&gt; ()?) -&gt; ()).(closure #1):ServerStorage.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChooseLocationView.(btnPickupHere_Clicked(UIButton) -&gt; ()).(closure #1):Main.CreateOrder.ChooseLocation.Events.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "address.country">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static RegionalHelper.getCountryCodeFromName(String) -&gt; String?:RegionalHelper.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSLocale.systemLocale().displayNameForKey(NSLocaleCountryCode, value: &quot;US&quot;) == name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static DataManager.(updateAndRefresh(A, completion : (A?) -&gt; ()?) -&gt; ()).(closure #1).(closure #1).(closure #1).(closure #1):DataManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static DataManager.(createAndRefresh(A, completion : (item : A?) -&gt; ()?) -&gt; ()).(closure #1):DataManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static CachingManager.performGet(String, expireMinutes : Double?, completion : (items : [A]) -&gt; ()?) -&gt; ():CachingManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "T.self">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelChattingTable.(loadItems() -&gt; ()).(closure #1):Message.ChatList.swift">
+      </ContextState>
+      <ContextState
+         contextName = "specialized OrderUI.(invalidate() -&gt; ()).(closure #1).(closure #1):Travel.Order.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SCDriverManager.(checkCarAvaiable((Bool) -&gt; ()?) -&gt; ()).(closure #1):DriverManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "STaxiManager.(cancelRequestToDriver(TravelOrder, driverId : String, completion : (item : TravelOrder?) -&gt; ()?) -&gt; ()).(closure #1):TaxiManager.Actions.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SCONNECTING.UserManager!.CurrentUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ClientStorage.cleanUp(Double, completion : () -&gt; ()?) -&gt; ():ClientStorage.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "&quot;useAt == nil OR useAt &lt; \(MongoDateTransform.stringRealmFromDate(NSDate().dateByAddingTimeInterval( -cleanUpDays*24*60*60)))&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UIView.switchToSecondConstraint.getter:UIConstraintHelper.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "constraintObject.heightConstraint!.constant ">
+            </PersistentString>
+            <PersistentString
+               value = "constraintObject.heightSecond!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelOrderManager.(getBidding(TravelOrder, completion : (item : DriverBidding?) -&gt; ()?) -&gt; ()).(closure #1):TravelOrderManager.Actions.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static BOOKTAXI.Init() -&gt; ():BOOKTAXI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "item!.Name">
+            </PersistentString>
+            <PersistentString
+               value = "CurrentUser!.Name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ModelController.(getOneByField(String, value : protocol&lt;&gt;, obj : inout A?) -&gt; ()).(closure #1):ModelController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static DataManager.(queryServer(String, serverHandler : (items : [A]?) -&gt; ()?) -&gt; ()).(closure #1):DataManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CustomOrderView.showCustomOrderPanel(Bool) -&gt; ():CustomOrder.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.pnlCustomOrderArea.hidden">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.invalidateAvatar(() -&gt; ()?) -&gt; ():Monitor.Panel.UserProfile.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "showShowUserProfilePanel()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SCLocationManager.(invalidate(CLLocationCoordinate2D) -&gt; ()).(closure #1):LocationManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BaseModel.copyWithZone(NSZone) -&gt; AnyObject:BaseModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "value!">
+            </PersistentString>
+            <PersistentString
+               value = "self.Type">
+            </PersistentString>
+            <PersistentString
+               value = "newObj.dynamicType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelOrderCell.invalidatePickupDropLocation(TravelOrder) -&gt; ():TravelHistory.Table.Cell.Data.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.lblPickupLocation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static SCUserManager.requestNewToken(String, completion : (String?) -&gt; ()?) -&gt; ():UserManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DriverProfileScreen.(btnSendRequest_Clicked(UIButton) -&gt; ()).(closure #2).(closure #2).(closure #1):Driver.Profile.Main.Events.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.travelOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SCDriverManager.(invalidateStatus(() -&gt; ()?) -&gt; ()).(closure #1):DriverManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentDriverStatus!.IsReady">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChooseLocationView.invalidateOrderPanel() -&gt; ():Main.CreateOrder.ChooseLocation.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " self.CurrentOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SCLocationManager.invalidate(CLLocation) -&gt; ():LocationManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentLocation">
+            </PersistentString>
+            <PersistentString
+               value = "self.locations!">
+            </PersistentString>
+            <PersistentString
+               value = "self.currentLocation!.Location!.verticalAccuracy">
+            </PersistentString>
+            <PersistentString
+               value = "isAddingLocation">
+            </PersistentString>
+            <PersistentString
+               value = "location.coordinate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OrderManager.setOrderPickupLoc(CLLocationCoordinate2D) -&gt; ():Order.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static DataManager.(createAndRefresh(A, completion : (item : A?) -&gt; ()?) -&gt; ()).(closure #1).(closure #1):DataManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "obj">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SCDriverManager.invalidateStatus(() -&gt; ()?) -&gt; ():DriverManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentDriverStatus">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelOrderScreen.invalidateUI(() -&gt; ()?) -&gt; ():TravelOrderScreen.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.orderPhase">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static DataManager.(queryServer(String, filter : String?, serverHandler : (items : [A]?) -&gt; ()?) -&gt; ()).(closure #1):DataManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static DataManager.(updateAndRefresh(A, completion : (A?) -&gt; ()?) -&gt; ()).(closure #1).(closure #1).(closure #1):DataManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CommentCell.updateCreateTime(TravelOrder) -&gt; ():Driver.Profile.Comment.Cell.Binding.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LeftMenuViewController.resetScrollSize() -&gt; ():LeftMenu.InitUI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.frame">
+            </PersistentString>
+            <PersistentString
+               value = "self.view">
+            </PersistentString>
+            <PersistentString
+               value = "self.superview.scrollEnabled ">
+            </PersistentString>
+            <PersistentString
+               value = "scrollView.superview">
+            </PersistentString>
+            <PersistentString
+               value = "self.view.bounds">
+            </PersistentString>
+            <PersistentString
+               value = "containerView.frame">
+            </PersistentString>
+            <PersistentString
+               value = "scrollView.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelChattingTable.refreshList() -&gt; ():Message.ChatList.Data.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentPages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ObjectReflection.getProperties(NSObject.Type) -&gt; [String]:ObjectReflection.swift">
+      </ContextState>
+      <ContextState
+         contextName = "OrderScanningTable.(selectedItem(OrderScanningCell, item : TravelOrder, indexPath : NSIndexPath) -&gt; ()).(closure #2):OrderScanning.Table.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " self.parent.navigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.(invalidateOrderPanel(() -&gt; ()?) -&gt; ()).(closure #2):Main.Travel.Monitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "QueryParam.RealmQuery.getter:FilterBuilder.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChoosePaymentMethodCell.updateWithModel(ChoosePaymentMethodObject) -&gt; ():Payment.MethodList.Cell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.lblBusinessName.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static DriverController.(GetNearestDrivers(Double, longtitude : Double, clientHandler : (drivers : [DriverStatus]) -&gt; ()?, serverHandler : (drivers : [DriverStatus]) -&gt; ()?) -&gt; ()).(closure #1):DriverController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TaxiMainScreen.changeHeading(Double) -&gt; ():Main.Map.Location.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "heading*M_PI/180">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CommentView.(invalidate() -&gt; ()).(closure #1):Driver.Profile.Comment.Table.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CarMarker.invalidate() -&gt; ():Map.MarkerManager.CarMarker.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " self.isShow ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChooseDriverObject.init(order : TravelOrder?, status : DriverStatus?, bidding : DriverBidding?) -&gt; ChooseDriverObject:Order.ChooseDriver.DriverList.Cell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChooseDriverUI.invalidateOrderInfo() -&gt; ():Order.ChooseDriver.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parent.orderInfo.txtSource">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "STaxiManager.(onUserRequestTaxi([AnyObject]) -&gt; ()).(closure #1):TaxiManager.Events.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(item?.OrderPickupPlace)!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "STaxiManager.onUserRequestTaxi([AnyObject]) -&gt; ():TaxiManager.Events.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data[0].DriverID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DriverProfileScreen.viewDidLoad() -&gt; ():DriverProfileScreen.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " self.navigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.invalidateUserProfilePanel(() -&gt; ()?) -&gt; ():Main.Travel.Monitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ServerStorage.(get(String, completion : (success : Bool, items : [A]) -&gt; ()?) -&gt; ()).(closure #1):ServerStorage.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static CachingManager.(performGetOne(String?, URL : String?, completion : (item : A?) -&gt; ()?) -&gt; ()).(closure #1):CachingManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SCDriverManager.(setReadyStatus(Bool, completion : (item : DriverStatus?) -&gt; ()?) -&gt; ()).(closure #1).(closure #1):DriverManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChooseLocationView.invalidateOrderPanel() -&gt; ():ChooseLocation.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " self.parent.isChoosingLocationPhase  &amp;&amp; self.CurrentOrder.IsChoosingLocation()     ">
+            </PersistentString>
+            <PersistentString
+               value = "self.CurrentOrder.IsNewOrder() ">
+            </PersistentString>
+            <PersistentString
+               value = "self.parent.isCustomOrderPhase   &amp;&amp; !self.CurrentOrder.IsChoosingPickupLocation()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SCDriverManager.(isValidDevice((Bool) -&gt; ()?) -&gt; ()).(closure #2):DriverManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIDevice.currentDevice().localizedModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SCDriverManager.(setReadyStatus(Bool, completion : (item : DriverStatus?) -&gt; ()?) -&gt; ()).(closure #1):DriverManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentDriverStatus">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.invalidateProfilePanelCollapse() -&gt; ():Main.Travel.Monitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.lblRateCount.hidden">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelChattingTable.addItem(TravelOrderChatting, completion : () -&gt; ()?) -&gt; ():Message.ChatList.Data.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static BOOKTAXI.Start() -&gt; ():BOOKTAXI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "puppies[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static &lt;- infix&lt;A where ...&gt; (inout A.Object?, (Map, A)) -&gt; ():Operators.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChooseLocationView.invalidateOrderPanel(() -&gt; ()?) -&gt; ():ChooseLocation.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentOrder">
+            </PersistentString>
+            <PersistentString
+               value = "self.CurrentOrder.IsNewOrder()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DriverProfileScreen.invalidateOrderControls() -&gt; ():DriverProfileScreen.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.travelOrder">
+            </PersistentString>
+            <PersistentString
+               value = "self.btnCancelRequest.showControl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapLocation.changeLocation(CLLocation) -&gt; ():Map.Location.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CommentTable.(invalidateData() -&gt; ()).(closure #1):Driver.Profile.Comment.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static GoogleMapUtil.getAddress(CLLocationCoordinate2D, completion : (address : String?, country : String?) -&gt; ()?) -&gt; ():GoogleMapUtil.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "geocoder.l">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "STaxiManager.(reset(TravelOrder, updateUI : Bool, phase : OrderCreationPhase?, completion : () -&gt; ()?) -&gt; ()).(closure #1):TaxiManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "specialized AppDelegate.application(UIApplication, didFinishLaunchingWithOptions : [NSObject : AnyObject]?) -&gt; Bool:AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isAlreadyIntro">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "STaxiManager.(invalidate(Bool, phase : OrderCreationPhase?, completion : () -&gt; ()?) -&gt; ()).(closure #2):TaxiManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ServerStorage.(getById(String, completion : (success : Bool, item : A?) -&gt; ()?) -&gt; ()).(closure #1):ServerStorage.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.invalidateActualPrice() -&gt; ():Main.Travel.Monitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentOrder!">
+            </PersistentString>
+            <PersistentString
+               value = "self.parent.markerManager.currentCar">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelMonitoringView.invalidateOrderPanelControls(() -&gt; ()?) -&gt; ():Monitor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.pnlOrderArea.hidden">
+            </PersistentString>
+            <PersistentString
+               value = "self.isCollapsedOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SCDriverManager.queryToCheckCarAvaiable((validPlan : WorkingPlan?, otherDrivers : [DriverStatus]?) -&gt; ()?) -&gt; ():DriverManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CurrentDriverStatus">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OrderManager.(createOrder() -&gt; ()).(closure #1):Order.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapView.invalidate() -&gt; ():Main.Map.Google.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parent.isChoosingLocationPhase ||  self.parent.isMonitoringPhase">
+            </PersistentString>
+            <PersistentString
+               value = "self.parent.orderCreationPhase">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LocationTransform.transformToJSON(LocationObject?) -&gt; [NSNumber]?:LocationObject.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Manager.request(Method, URLStringConvertible, parameters : [String : AnyObject]?, encoding : ParameterEncoding, headers : [String : String]?) -&gt; Request:Manager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static ModelController.(getOneByID(String, obj : inout A?) -&gt; ()).(closure #2):ModelController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChooseLocationView.btnPickupHere_Clicked(UIButton) -&gt; ():ChooseLocation.Events.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SCONNECTING.TaxiManager">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapUI.(invalidate() -&gt; ()).(closure #1):Main.Map.Google.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " self.CurrentOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OrderManager.init(order : TravelOrder) -&gt; OrderManager:Order.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChooseLocationView.invalidate() -&gt; ():ChooseLocation.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parent.isChoosingLocationPhase">
+            </PersistentString>
+            <PersistentString
+               value = "self.CurrentOrder.IsNewOrder() ">
+            </PersistentString>
+            <PersistentString
+               value = "self.CurrentOrder.IsChoosingLocation()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SCUserManager.(initCurrentUser(() -&gt; ()?) -&gt; ()).(closure #1):UserManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static RESTAPI.(getOne(String?, filter : String?, completion : (success : Bool, item : A?) -&gt; ()?) -&gt; ()).(closure #1).(closure #1):RESTAPI.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static ServerStorage.(create(A, completion : (success : Bool, item : A?) -&gt; ()?) -&gt; ()).(closure #1):ServerStorage.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NSDate.toString(String) -&gt; String:DateTimeUtil.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dateFormatter.stringFromDate(self)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ToJSON.basicType&lt;A&gt; (A, map : Map) -&gt; ():ToJSON.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DriverProfileScreen.(btnCancelRequest_Clicked(UIButton) -&gt; ()).(closure #2).(closure #2):Driver.Profile.Main.Events.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.travelOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelChattingObject.init(order : TravelOrder?, item : TravelOrderChatting?) -&gt; TravelChattingObject:Message.ChatList.Cell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "preferHeight">
+            </PersistentString>
+            <PersistentString
+               value = "preferWidth">
+            </PersistentString>
+            <PersistentString
+               value = "TravelChattingCell.ContentLabelWidth">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static DriverController.(RequestForActivationCode(String, countryCode : String, completion : (requestId : String?, errorcode : String?) -&gt; ()) -&gt; ()).(closure #1):DriverActivation.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TaxiMainScreen.CurrentOrder.getter:TaxiMainScreen.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SCONNECTING.TaxiManager">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelChattingTable.refreshList() -&gt; ():Message.ChatList.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TaxiOrderScreen.initControls() -&gt; ():Order.Travel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DriverProfileScreen.invalidate() -&gt; ():Driver.Profile.Main.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.travelOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static UserController.(CheckForActivationCode(String, code : String, phoneNo : String, completion : (UserId : String?, errorcode : String?) -&gt; ()) -&gt; ()).(closure #1):UserActivation.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json[&quot;error&quot;] ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CarMarkerList.loadCars([DriverStatus]) -&gt; ():Main.Map.Marker.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

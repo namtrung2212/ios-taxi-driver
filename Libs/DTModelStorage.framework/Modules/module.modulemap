@@ -1,0 +1,10 @@
+framework module DTModelStorage {
+  umbrella header "DTModelStorage-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module DTModelStorage.Swift {
+    header "DTModelStorage-Swift.h"
+}
